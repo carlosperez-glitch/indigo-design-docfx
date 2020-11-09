@@ -37,7 +37,7 @@ Before you can install the VS Code Extension, please make sure you have Visual S
     <div class="divider--half"></div>
     <div class="divider--half"></div>
 
-5.  Browse to the location of the unzipped file you downloaded to select the VS Code Extension
+5.  Browse to the location of the unzipped file you downloaded to select the VS Code Extension. Link.
     <div class="divider--half"></div>
     <img class="responsive-img" src="../images/vs-code-select-vsix.png" />
     <div class="divider--half"></div>
